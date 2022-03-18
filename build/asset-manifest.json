@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flrsgloba/polaroidnights/static/css/main.70cf264d.chunk.css",
+    "main.js": "/flrsgloba/polaroidnights/static/js/main.f853586f.chunk.js",
+    "main.js.map": "/flrsgloba/polaroidnights/static/js/main.f853586f.chunk.js.map",
+    "runtime-main.js": "/flrsgloba/polaroidnights/static/js/runtime-main.457ab9fe.js",
+    "runtime-main.js.map": "/flrsgloba/polaroidnights/static/js/runtime-main.457ab9fe.js.map",
+    "static/js/2.b6d889fc.chunk.js": "/flrsgloba/polaroidnights/static/js/2.b6d889fc.chunk.js",
+    "static/js/2.b6d889fc.chunk.js.map": "/flrsgloba/polaroidnights/static/js/2.b6d889fc.chunk.js.map",
+    "static/js/3.ecd6d6e1.chunk.js": "/flrsgloba/polaroidnights/static/js/3.ecd6d6e1.chunk.js",
+    "static/js/3.ecd6d6e1.chunk.js.map": "/flrsgloba/polaroidnights/static/js/3.ecd6d6e1.chunk.js.map",
+    "index.html": "/flrsgloba/polaroidnights/index.html",
+    "static/css/main.70cf264d.chunk.css.map": "/flrsgloba/polaroidnights/static/css/main.70cf264d.chunk.css.map",
+    "static/js/2.b6d889fc.chunk.js.LICENSE.txt": "/flrsgloba/polaroidnights/static/js/2.b6d889fc.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/flrsgloba/polaroidnights/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.457ab9fe.js",
+    "static/js/2.b6d889fc.chunk.js",
+    "static/css/main.70cf264d.chunk.css",
+    "static/js/main.f853586f.chunk.js"
+  ]
+}
